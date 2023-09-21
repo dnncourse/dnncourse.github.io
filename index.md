@@ -17,33 +17,35 @@ Department of Mathematics, Sharif University. Fall 2023
 
 ![](https://ehsanmousavi1.github.io/NeuralNetwork/assets/images/site-banner.png)
 
-This course provides an introductory exploration of deep learning theory, employing mathematical tools as a foundation. In the initial section, we revisit the core principles that underpin deep learning. Later in the course, our attention shifts towards delving into the theoretical underpinnings of deep neural networks
-
+This course offers an introductory exploration of deep learning, utilizing mathematical tools as its foundation. In the first half of the course, we revisit the core methods that underpin deep learning. Later on, we will cover a number of recent theoretical advances that aim to shed light on the mathematical foundations of deep learning.
 
 #Prerequisites
 The following skills will be useful for success in this course:
 
-* Machine Learning: Some familiarity with machine learning will be helpful but not required; we will review important concepts that are needed for this course.
+* **Machine Learning:** Some familiarity with machine learning will be helpful but not required; we will review important concepts that are needed for this course.
 
-* Programming: You should be comfortable programming in Python. You should be familiar with algorithms and data structures. Familiarity with numpy or similar frameworks for numeric programming will be helpful but is not strictly required.
+* **Programming:** You should be comfortable programming in Python. You should be familiar with algorithms and data structures. Familiarity with numpy or similar frameworks for numeric programming will be helpful but is not strictly required.
 
-* Probability: You should have been exposed to probability distributions, random variables, expectations, etc.
+* **Probability and Linear Algebra:** You should have been exposed to probability distributions, random variables, expectations, etc.
+
 
 ## Course Work
 Grading will be based:
-* Assignments (?)
-* Final Exam (?)
-* Paper Presentation (25%): All students taking a
+* Assignments (TBA)
+* Final Exam (TBA)
+* Paper Presentation (TBA):
 
-Presentations
-A crucial aspect of the course involves engaging in discussions about several papers pertaining to specific research topics.  This task is to be completed in pairs. While the choice of paper is influenced by your individual interests, it must pertain to the theoretical foundations of deep learning. Please don't hesitate to seek guidance from the course instructors and TAs when selecting your paper.
 
-Proposal Submission: By Azar 1, 1402, you are required to submit a 1-page proposal outlining your chosen research topic.
+## Prerequisites
+An essential component of this course involves delving deep into several papers related to specific research topics. This task is to be completed in pairs. While the choice of paper is based on your interests, it must relate to the theoretical foundations of deep learning. You are encouraged to consult with instructors and TAs when selecting your paper.
 
-Presentation: During the final two weeks of the course, you will deliver a 20-minute presentation to succinctly summarize the research paper.
+* **Proposal Submission**: By the 1st of Azar, 1402, you are required to submit a 1-page proposal outlining your chosen research topic.
 
-Paper Review: You are expected to submit a concise review of the paper. In this review, provide an overview of the paper the motivation and important theoretical results of the work. Also,  critically evaluate its strengths and weaknesses. Additionally, you are encouraged (though optional) to further explore the results or implement the ideas and compare them with other findings.
+* **Presentation**: During the final two weeks of the course, you will deliver a 20-minute presentation to succinctly summarize the research paper.
 
+* **Paper Review**: You are expected to submit a concise review of the paper. This review should provide an overview of the paper, its motivation, and the important theoretical results of the work. Additionally, critically evaluate its strengths and weaknesses. Furthermore, you are encouraged (although it is optional) to further explore the results or implement the ideas and compare them with other findings.
+
+<!--
 ## Lectures
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -132,3 +134,4 @@ Paper Review: You are expected to submit a concise review of the paper. In this 
   </tr>
 </tbody>
 </table>
+-->
