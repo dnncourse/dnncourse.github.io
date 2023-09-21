@@ -12,7 +12,7 @@ seo:
 # Selected Topics in Deep Learning
 {: .mb-2 .text-green-000}
 
-Department of Mathematics, Sharif University. Fall 2023
+Department of Mathematics, Sharif University of Technology. Fall 2023
 {: .fs-6 .fw-300 }
 
 ![](https://ehsanmousavi1.github.io/NeuralNetwork/assets/images/site-banner.png)

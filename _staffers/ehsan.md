@@ -1,9 +1,9 @@
 ---
-name:
-role:
-email:
+name: Ehsan Mousavi
+role: Instructor
+email: ehsan.mousavi [at] gmail [dot] com
 website:
-photo:
+photo: ehsan.jpeg
 ---
 
 Instructor
