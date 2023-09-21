@@ -12,12 +12,18 @@ Meet our awesome team members!
 {: .fs-6 .fw-300 }
 
 
-## Instructor
+## Instructors
 
 {% assign president = site.staffers | where: 'role', 'President' %}
 {% for staffer in president %}
 {{ staffer }}
 {% endfor %}
+
+{% assign president = site.staffers | where: 'role', 'President' %}
+{% for staffer in president %}
+{{ staffer }}
+{% endfor %}
+
 
 {% assign officers = site.staffers | where: 'role', 'Officer' %}
 {% assign num_officers = officers | size %}
