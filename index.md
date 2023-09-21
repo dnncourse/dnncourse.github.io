@@ -36,7 +36,7 @@ Grading will be based:
 * Paper Presentation (TBA):
 
 
-## Prerequisites
+## Project and Presentation
 An essential component of this course involves delving deep into several papers related to specific research topics. This task is to be completed in pairs. While the choice of paper is based on your interests, it must relate to the theoretical foundations of deep learning. You are encouraged to consult with instructors and TAs when selecting your paper.
 
 * **Proposal Submission**: By the 1st of Azar, 1402, you are required to submit a 1-page proposal outlining your chosen research topic.
@@ -44,6 +44,83 @@ An essential component of this course involves delving deep into several papers 
 * **Presentation**: During the final two weeks of the course, you will deliver a 20-minute presentation to succinctly summarize the research paper.
 
 * **Paper Review**: You are expected to submit a concise review of the paper. This review should provide an overview of the paper, its motivation, and the important theoretical results of the work. Additionally, critically evaluate its strengths and weaknesses. Furthermore, you are encouraged (although it is optional) to further explore the results or implement the ideas and compare them with other findings.
+
+
+## Tentative Lectures Schedule
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mz35{border-color:#7a7fe5;text-align:center;}
+</style>
+<table border="1">
+  <tr>
+    <th>Lecture</th>
+    <th>Topic</th>
+  </tr>
+  <tr>
+    <td>Lecture 1</td>
+    <td>Introduction</td>
+  </tr>
+  <tr>
+    <td>Lectures 2-5</td>
+    <td>ML Overview</td>
+  </tr>
+  <tr>
+    <td>Lecture 6</td>
+    <td>Multi-layer Perceptrons</td>
+  </tr>
+  <tr>
+    <td>Lecture 7</td>
+    <td>Optimization</td>
+  </tr>
+  <tr>
+    <td>Lecture 8</td>
+    <td>Backpropagation</td>
+  </tr>
+  <tr>
+    <td>Lecture 9</td>
+    <td>Convolutional Neural Networks (CNN)</td>
+  </tr>
+  <tr>
+    <td>Lectures 10-11</td>
+    <td>Training DNN</td>
+  </tr>
+  <tr>
+    <td>Lecture 12</td>
+    <td>Recurrent Networks</td>
+  </tr>
+  <tr>
+    <td>Lecture 13-14</td>
+    <td>Attention, Transformers</td>
+  </tr>
+  <tr>
+    <td>Lecture 15</td>
+    <td>Large Language Models</td>
+  </tr>
+  <tr>
+    <td>Lecture 16</td>
+    <td>Score-based Generative Models</td>
+  </tr>
+  <tr>
+    <td>Lecture 17</td>
+    <td>Neural Tangent Kernels</td>
+  </tr>
+  <tr>
+    <td>Lecture 18</td>
+    <td>Bayesian Neural Networks</td>
+  </tr>
+  <tr>
+    <td>Lecture 19-27</td>
+    <td>Advanced Topics (TBA)</td>
+  </tr>
+  <tr>
+    <td>Lecture 28-29</td>
+    <td>Presentations</td>
+  </tr>
+</table>
 
 <!--
 ## Lectures
