@@ -30,7 +30,7 @@ The following skills will be useful for success in this course:
 
 
 ## Course Work
-Grading will be based:
+Grading will be based on:
 * Assignments (TBA)
 * Final Exam (TBA)
 * Paper Presentation (TBA):
