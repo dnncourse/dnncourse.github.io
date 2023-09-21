@@ -1,6 +1,6 @@
 ---
 name: Ehsan Mousavi
-role: Instructor
+role: President
 email: ehsan.mousavi [at] gmail [dot] com
 website:
 photo: ehsan.jpeg
