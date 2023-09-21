@@ -1,5 +1,5 @@
 
-# Presentations
+# Project and Presentation
 A crucial aspect of the course involves engaging in discussions about several papers pertaining to specific research topics.  This task is to be completed in pairs. While the choice of paper is influenced by your individual interests, it must pertain to the theoretical foundations of deep learning. Please don't hesitate to seek guidance from the course instructors and TAs when selecting your paper.
 
 Proposal Submission: By Azar 1, 1402, you are required to submit a 1-page proposal outlining your chosen research topic.

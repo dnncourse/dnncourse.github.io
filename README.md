@@ -1,5 +1,5 @@
 # Neural Network Course
 
-Department of Mathematics Sharif University. Fall 2023
+The material of the Topics in Deep Learning.
 
-The goal of our course 
+Department of Mathematics Sharif University. Fall 2023

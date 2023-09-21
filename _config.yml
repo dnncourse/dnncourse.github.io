@@ -3,7 +3,7 @@ title: Neural Networks
 tagline: CS SBU
 description: Neural Network Course . Fall 2023
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://ehsanmousavi1.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://dnncourse.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 favicon_ico: "favicon.ico"
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", vendor]
 
@@ -15,7 +15,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Repo on GitHub:
-    - 'https://github.com/ehsanmousavi1/ehsanmousavi1.github.io'
+    - 'https://github.com/dnncourse/dnncourse.github.io'
 footer_content:
 
 # Collections for website data

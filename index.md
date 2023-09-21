@@ -9,7 +9,7 @@ seo:
   name: Home
 ---
 
-# Deep Learning
+# Selected Topics in Deep Learning
 {: .mb-2 .text-green-000}
 
 Department of Mathematics, Sharif University. Fall 2023
@@ -19,7 +19,7 @@ Department of Mathematics, Sharif University. Fall 2023
 
 This course offers an introductory exploration of deep learning, utilizing mathematical tools as its foundation. In the first half of the course, we revisit the core methods that underpin deep learning. Later on, we will cover a number of recent theoretical advances that aim to shed light on the mathematical foundations of deep learning.
 
-#Prerequisites
+## Prerequisites
 The following skills will be useful for success in this course:
 
 * **Machine Learning:** Some familiarity with machine learning will be helpful but not required; we will review important concepts that are needed for this course.
