@@ -1,2 +1,5 @@
-# dnncourse.github.io
-This is a course on DNN and its mathematical foundations
+# Neural Network Course
+
+Department of Mathematics Sharif University. Fall 2023
+
+The goal of our course 
