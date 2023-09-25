@@ -31,9 +31,9 @@ The following skills will be useful for success in this course:
 
 ## Course Work
 Grading will be based on:
-* Assignments (TBA)
-* Final Exam (TBA)
-* Paper Presentation (TBA):
+* Assignments (40%)
+* Final Exam (30%)
+* Paper Presentation (30%):
 
 
 ## Project and Presentation
