@@ -21,3 +21,5 @@ Reading Recourse: Chapter 6.1, 6.2, 6.3 of deeplearningbook
 - Lecture 8: [Backpropagation](https://drive.google.com/drive/folders/1Kn5tWF3584ysZCqUDNHGVbIhQvwX6dS2?usp=sharing)
 
 Reading Recourse: Chapter 6.5 of deeplearningbook
+
+- Lecture 9: [Optimization](https://drive.google.com/file/d/17-ZVpJrCG9SnJBrbzdCLtj-FTPOxDP7L/view?usp=sharing)
