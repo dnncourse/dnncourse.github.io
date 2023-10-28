@@ -23,5 +23,6 @@ permalink: /lectures
       Reading Recourse: Chapter 6.5 of deeplearningbook
 
 - Lecture 9: [Optimization](https://drive.google.com/file/d/17-ZVpJrCG9SnJBrbzdCLtj-FTPOxDP7L/view?usp=sharing)
+      Reading Recourse: Chapter 8 of deeplearningbook
 
-- Lab: A simple Model for MNIST(../notebooks/sample_notebooks/MNIST.ipynb)
+- Lab: A simple Model for [MNIST](../../notebooks/sample_notebooks/MNIST.ipynb)
