@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Lectures
+title: Assignments
 nav_order: 2
-has_children: true
-permalink: /lectures
+has_children: false
+permalink: /assignments
 ---
 
 # Assignments
