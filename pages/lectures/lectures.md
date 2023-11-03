@@ -29,3 +29,5 @@ permalink: /lectures
 - Lab: A simple Model for [MNIST](../../notebooks/sample_notebooks/MNIST.ipynb)
 
 - Lecture 10: [Convolutional Neural Networks](https://drive.google.com/file/d/1u0wWlpvCJreYsESZZBrpxl_vJHu35e_v/view?usp=sharing)
+
+-Lecture 11: [Training DNN (I)](https://drive.google.com/file/d/10wr2HnkBS_8BY3GOC5Ay-NRifgB8BvC0/view?usp=drive_link)
