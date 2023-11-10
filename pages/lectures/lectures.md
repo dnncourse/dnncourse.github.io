@@ -30,4 +30,8 @@ permalink: /lectures
 
 - Lecture 10: [Convolutional Neural Networks](https://drive.google.com/file/d/1u0wWlpvCJreYsESZZBrpxl_vJHu35e_v/view?usp=sharing)
 
--Lecture 11: [Training DNN (I)](https://drive.google.com/file/d/10wr2HnkBS_8BY3GOC5Ay-NRifgB8BvC0/view?usp=drive_link)
+- Lecture 11: [Training DNN](https://drive.google.com/file/d/10wr2HnkBS_8BY3GOC5Ay-NRifgB8BvC0/view?usp=drive_link)
+
+- Lecture 12: [Word Embedding](https://drive.google.com/file/d/1e2EPv4DQMtIibz39Y89D_oimsvOxWZvC/view?usp=sharing)
+
+- Lecture 13: [Recurrent Neural Network](https://drive.google.com/file/d/1WKBWOuViGMS0Q-Ngk5RcScDiiM4WI7mV/view?usp=sharing)
