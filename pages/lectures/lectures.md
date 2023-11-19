@@ -35,3 +35,5 @@ permalink: /lectures
 - Lecture 12: [Word Embedding](https://drive.google.com/file/d/1e2EPv4DQMtIibz39Y89D_oimsvOxWZvC/view?usp=sharing)
 
 - Lecture 13: [Recurrent Neural Network](https://drive.google.com/file/d/1WKBWOuViGMS0Q-Ngk5RcScDiiM4WI7mV/view?usp=sharing)
+
+- Lecture 14: [LSTM Networks](https://drive.google.com/file/d/1vck2OEumReiRf4X4jhq5HMQWoVrQsie2/view?usp=sharing)
