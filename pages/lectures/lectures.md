@@ -38,12 +38,12 @@ permalink: /lectures
 
 - Lecture 14: [LSTM Networks](https://drive.google.com/file/d/1vck2OEumReiRf4X4jhq5HMQWoVrQsie2/view?usp=sharing)
       Reading Recourse: Chapter 9 of [Speech and Language Processing. Daniel Jurafsky & James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
+
 - Lecture 15: [Attention and Machine Translation](https://drive.google.com/file/d/17le09nCQcy5Dtaip6wqqFQKoqo6g9aJ2/view?usp=sharing)
 
-      Reading Recourse: Chapter 9 of [Speech and Language Processing. Daniel Jurafsky & James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
-      )
+      Reading Recourse: Chapter 13 of [Speech and Language Processing. Daniel Jurafsky & James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
+
 
 - Lecture 16: [Transformers](https://drive.google.com/file/d/1kAm664PnWCQ5lJClXdXIOyWxLtLvtizv/view?usp=sharing)   
 
       Reading Recourse: Chapter 10 of [Speech and Language Processing. Daniel Jurafsky & James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
-      )
