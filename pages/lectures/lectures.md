@@ -48,3 +48,5 @@ permalink: /lectures
 - Lecture 16: [Transformers](https://drive.google.com/file/d/1kAm664PnWCQ5lJClXdXIOyWxLtLvtizv/view?usp=sharing)   
 
       Reading Recourse: Chapter 10 of [Speech and Language Processing. Daniel Jurafsky & James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
+
+- Lecture 17: [Pretrained Models:BERT, GPT](https://drive.google.com/drive/folders/1Kn5tWF3584ysZCqUDNHGVbIhQvwX6dS2?usp=sharing)
