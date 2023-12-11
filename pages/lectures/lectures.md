@@ -51,4 +51,7 @@ permalink: /lectures
 
 - Lecture 17: [Pretrained Models:BERT, GPT](https://drive.google.com/drive/folders/1Kn5tWF3584ysZCqUDNHGVbIhQvwX6dS2?usp=sharing)
 
-- Lecture 18: [neural tangent kernel](https://drive.google.com/file/d/1NHz7PIw8sqKslfcjJVwecvSby4Qbw5Cc/view?usp=sharing)
+- Lecture 18: [Neural Tangent Kernel](https://drive.google.com/file/d/1NHz7PIw8sqKslfcjJVwecvSby4Qbw5Cc/view?usp=sharing)
+
+
+- Lecture 19: [Diffusion Models](https://drive.google.com/file/d/1OWYUxbLXlhZYOwNCFDk0O90c-s1Rzdl3/view?usp=sharing)
