@@ -55,3 +55,5 @@ permalink: /lectures
 
 
 - Lecture 19: [Diffusion Models](https://drive.google.com/file/d/1OWYUxbLXlhZYOwNCFDk0O90c-s1Rzdl3/view?usp=sharing)
+
+-Lecture 20: [Graph Neural Networks](https://drive.google.com/file/d/13GtuPGsLfYK9I76HbR1kObUQqmt1HQ-s/view?usp=drive_link)
