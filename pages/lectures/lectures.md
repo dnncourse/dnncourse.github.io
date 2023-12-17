@@ -16,15 +16,15 @@ permalink: /lectures
 - Lecture 4: [Linear Classification](https://drive.google.com/file/d/1UBzyKvsa4uwT8MG94P6Dx_EWy_p20Tx6/view?usp=drive_link)
 - Lecture 5: [Multilayer perceptron (Feedforward DNN)](https://drive.google.com/file/d/1UmZOBDCQc2EU7UOAmTag3Itc_3lk3BQ1/view?usp=drive_link)
 
-      Reading Recourse: Chapter 6.1, 6.2, 6.3 of deeplearningbook
+      Reading Resource: Chapter 6.1, 6.2, 6.3 of deeplearningbook
 
 - Lecture 8: [Backpropagation](https://drive.google.com/drive/folders/1Kn5tWF3584ysZCqUDNHGVbIhQvwX6dS2?usp=sharing)
 
-      Reading Recourse: Chapter 6.5 of deeplearningbook
+      Reading Resource: Chapter 6.5 of deeplearningbook
 
 - Lecture 9: [Optimization](https://drive.google.com/file/d/17-ZVpJrCG9SnJBrbzdCLtj-FTPOxDP7L/view?usp=sharing)
 
-      Reading Recourse: Chapter 8 of deeplearningbook
+      Reading Resource: Chapter 8 of deeplearningbook
 
 - Lab: A simple Model for [MNIST](../../notebooks/sample_notebooks/MNIST.ipynb)
 
@@ -38,16 +38,16 @@ permalink: /lectures
 
 - Lecture 14: [LSTM Networks](https://drive.google.com/file/d/1vck2OEumReiRf4X4jhq5HMQWoVrQsie2/view?usp=sharing)
 
-      Reading Recourse: Chapter 9 of [Speech and Language Processing. Daniel Jurafsky & James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
+      Reading Resource: Chapter 9 of [Speech and Language Processing. Daniel Jurafsky & James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
 
 - Lecture 15: [Attention and Machine Translation](https://drive.google.com/file/d/17le09nCQcy5Dtaip6wqqFQKoqo6g9aJ2/view?usp=sharing)
 
-      Reading Recourse: Chapter 13 of [Speech and Language Processing. Daniel Jurafsky & James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
+      Reading Resource: Chapter 13 of [Speech and Language Processing. Daniel Jurafsky & James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
 
 
 - Lecture 16: [Transformers](https://drive.google.com/file/d/1kAm664PnWCQ5lJClXdXIOyWxLtLvtizv/view?usp=sharing)   
 
-      Reading Recourse: Chapter 10 of [Speech and Language Processing. Daniel Jurafsky & James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
+      Reading Resource: Chapter 10 of [Speech and Language Processing. Daniel Jurafsky & James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
 
 - Lecture 17: [Pretrained Models:BERT, GPT](https://drive.google.com/drive/folders/1Kn5tWF3584ysZCqUDNHGVbIhQvwX6dS2?usp=sharing)
 
@@ -55,5 +55,7 @@ permalink: /lectures
 
 
 - Lecture 19: [Diffusion Models](https://drive.google.com/file/d/1OWYUxbLXlhZYOwNCFDk0O90c-s1Rzdl3/view?usp=sharing)
+
+    Reading Resource:[Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
 
 -Lecture 20: [Graph Neural Networks](https://drive.google.com/file/d/13GtuPGsLfYK9I76HbR1kObUQqmt1HQ-s/view?usp=drive_link)
