@@ -16,4 +16,4 @@ permalink: /assignments
 
 - Assignment 3: [Language Models](./assignment_3.pdf)
 
-    notebook: [colab](https://colab.research.google.com/drive/1oOMsLh7l_DmtVArkLwQDxeCD9rif7mTZ?usp=sharing)
+    notebook Problem 1: [colab](https://colab.research.google.com/drive/1MUlo61Xn-7D1glD2Mg1WfqupcCuhMM5e)
