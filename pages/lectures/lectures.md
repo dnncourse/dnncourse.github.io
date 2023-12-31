@@ -59,3 +59,6 @@ permalink: /lectures
     Reading Resource:[Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
 
 - Lecture 20: [Graph Neural Networks](https://drive.google.com/file/d/13GtuPGsLfYK9I76HbR1kObUQqmt1HQ-s/view?usp=drive_link)
+
+
+- Lecture 23: [Gan](https://drive.google.com/file/d/1tsL4EmfoukRWRRRmdpS-UempxU5JwXGN/view?usp=drive_link)
