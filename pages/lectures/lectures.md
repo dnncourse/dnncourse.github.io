@@ -30,12 +30,12 @@ permalink: /lectures
 
 - Lecture 10: [Convolutional Neural Networks](https://drive.google.com/file/d/1u0wWlpvCJreYsESZZBrpxl_vJHu35e_v/view?usp=sharing)
 
-    Reading Resource: Chapter 9 of deeplearningbook
+      Reading Resource: Chapter 9 of deeplearningbook
 
 
 - Lecture 11: [Training DNN](https://drive.google.com/file/d/10wr2HnkBS_8BY3GOC5Ay-NRifgB8BvC0/view?usp=drive_link)
 
-  Reading Resource: Chapter 7.12, 8.4, 8.7 of deeplearningbook
+      Reading Resource: Chapter 7.12, 8.4, 8.7 of deeplearningbook
 
 - Lecture 12: [Word Embedding](https://drive.google.com/file/d/1e2EPv4DQMtIibz39Y89D_oimsvOxWZvC/view?usp=sharing)
 
