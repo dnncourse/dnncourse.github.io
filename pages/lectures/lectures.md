@@ -24,17 +24,26 @@ permalink: /lectures
 
 - Lecture 9: [Optimization](https://drive.google.com/file/d/17-ZVpJrCG9SnJBrbzdCLtj-FTPOxDP7L/view?usp=sharing)
 
-      Reading Resource: Chapter 8 of deeplearningbook
+      Reading Resource: Chapter 8.1,8.3,8.5 of deeplearningbook
 
 - Lab: A simple Model for [MNIST](../../notebooks/sample_notebooks/MNIST.ipynb)
 
 - Lecture 10: [Convolutional Neural Networks](https://drive.google.com/file/d/1u0wWlpvCJreYsESZZBrpxl_vJHu35e_v/view?usp=sharing)
 
+    Reading Resource: Chapter 9 of deeplearningbook
+
+
 - Lecture 11: [Training DNN](https://drive.google.com/file/d/10wr2HnkBS_8BY3GOC5Ay-NRifgB8BvC0/view?usp=drive_link)
+
+  Reading Resource: Chapter 7.12, 8.4, 8.7 of deeplearningbook
 
 - Lecture 12: [Word Embedding](https://drive.google.com/file/d/1e2EPv4DQMtIibz39Y89D_oimsvOxWZvC/view?usp=sharing)
 
+      Reading Resource: Chapter 6.8 of [Speech and Language Processing. Daniel Jurafsky & James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
+
 - Lecture 13: [Recurrent Neural Network](https://drive.google.com/file/d/1WKBWOuViGMS0Q-Ngk5RcScDiiM4WI7mV/view?usp=sharing)
+
+      Reading Resource: Chapter 9 of [Speech and Language Processing. Daniel Jurafsky & James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
 
 - Lecture 14: [LSTM Networks](https://drive.google.com/file/d/1vck2OEumReiRf4X4jhq5HMQWoVrQsie2/view?usp=sharing)
 
