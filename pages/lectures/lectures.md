@@ -70,4 +70,7 @@ permalink: /lectures
 - Lecture 20: [Graph Neural Networks](https://drive.google.com/file/d/13GtuPGsLfYK9I76HbR1kObUQqmt1HQ-s/view?usp=drive_link)
 
 
-- Lecture 23: [Gan](https://drive.google.com/file/d/1tsL4EmfoukRWRRRmdpS-UempxU5JwXGN/view?usp=drive_link)
+- Lecture 23: [Generative Adverserial Network](https://drive.google.com/file/d/1tsL4EmfoukRWRRRmdpS-UempxU5JwXGN/view?usp=drive_link)
+
+
+- [Review notes](./review.pdf)
