@@ -18,7 +18,7 @@ permalink: /lectures
 
       Reading Resource: Chapter 6.1, 6.2, 6.3 of deeplearningbook
 
-- Lecture 8: [Backpropagation](https://drive.google.com/drive/folders/1Kn5tWF3584ysZCqUDNHGVbIhQvwX6dS2?usp=sharing)
+- Lecture 8: [Backpropagation](https://drive.google.com/file/d/1z37a8DQv8_klxVALGZcvGHJedHeU-6vM/view?usp=drive_link)
 
       Reading Resource: Chapter 6.5 of deeplearningbook
 
@@ -70,7 +70,7 @@ permalink: /lectures
 - Lecture 20: [Graph Neural Networks](https://drive.google.com/file/d/13GtuPGsLfYK9I76HbR1kObUQqmt1HQ-s/view?usp=drive_link)
 
 
-- Lecture 23: [Generative Adverserial Network](https://drive.google.com/file/d/1tsL4EmfoukRWRRRmdpS-UempxU5JwXGN/view?usp=drive_link)
+- Lecture 23: [Generative Adversarial Network](https://drive.google.com/file/d/1tsL4EmfoukRWRRRmdpS-UempxU5JwXGN/view?usp=drive_link)
 
 
 - [Review notes](./review.pdf)
