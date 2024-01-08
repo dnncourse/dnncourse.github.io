@@ -69,6 +69,7 @@ permalink: /lectures
 
 - Lecture 20: [Graph Neural Networks](https://drive.google.com/file/d/13GtuPGsLfYK9I76HbR1kObUQqmt1HQ-s/view?usp=drive_link)
 
+- Lecture 21: [Information Theory of Neural Networks](https://drive.google.com/file/d/1kYI862K7Qw-zpESeXJGYeoVlswnwE_-R/view?usp=drive_link)
 
 - Lecture 23: [Generative Adversarial Network](https://drive.google.com/file/d/1tsL4EmfoukRWRRRmdpS-UempxU5JwXGN/view?usp=drive_link)
 
